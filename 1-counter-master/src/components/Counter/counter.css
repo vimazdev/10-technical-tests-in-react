@@ -1,0 +1,50 @@
+.counter{
+    width: 100%;
+    max-width: 400px;
+    min-width: 290px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, .4);
+    border-radius: 5px;
+}
+
+.counter .head-counter{
+    text-align: center;
+    width: 100%;
+}
+
+.counter .head-counter h1{
+    margin-bottom: 20px;
+}
+
+.counter .head-counter span{
+    font-size: 5rem;
+}
+
+.counter .buttons-counter{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.counter .buttons-counter button{
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.counter .buttons-counter button:nth-child(1){
+    background-color: #e74c3c;
+    color: white;
+}
+
+.counter .buttons-counter button:nth-child(2){
+    background-color: #3498db;
+    color: white;
+}
+
+
+/* Develop by Vimaz dev */
