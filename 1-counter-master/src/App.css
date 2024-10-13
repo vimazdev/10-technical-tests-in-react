@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  list-style: none;
+  text-decoration: none;
+}
+
+
+body, html{
+  background-color: #212f3c;
+  color: #f0f3f4;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 100vh;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
