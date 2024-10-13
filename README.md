@@ -19,7 +19,7 @@ Cada proyecto tiene sus propias instrucciones para ser clonado y ejecutado. Sigu
 
 ```bash
 # Clonar el repositorio
-git clone [<url-del-repositorio>](https://github.com/vimazdev/10-technical-tests-in-react.git)
+git clone [github.com/vimazdev/10-technical-tests-in-react](https://github.com/vimazdev/10-technical-tests-in-react.git)
 
 # Navegar a la carpeta del proyecto específico
 cd proyecto1
