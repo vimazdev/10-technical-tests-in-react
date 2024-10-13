@@ -19,10 +19,10 @@ Cada proyecto tiene sus propias instrucciones para ser clonado y ejecutado. Sigu
 
 ```bash
 # Clonar el repositorio
-git clone - https://github.com/vimazdev/10-technical-tests-in-react.git
+git clone https://github.com/vimazdev/10-technical-tests-in-react.git
 
 # Navegar a la carpeta del proyecto específico
-cd proyecto1
+cd proyect-x
 
 # Instalar dependencias y ejecutar el proyecto
 npm install
