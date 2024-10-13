@@ -1,0 +1,42 @@
+# Ignorar todas las carpetas node_modules en el repositorio general y en los subproyectos
+node_modules/
+**/node_modules/
+
+# Ignorar el archivo de lock de npm
+package-lock.json
+**/package-lock.json
+
+# Ignorar lock de Yarn si usas Yarn
+yarn.lock
+**/yarn.lock
+
+# Ignorar archivos de build
+build/
+**/build/
+
+# Ignorar cachés y logs de npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar archivos de entorno
+.env
+**/.env
+
+# Ignorar directorios de logs
+logs/
+**/logs/
+*.log
+
+# Ignorar archivos de cobertura de pruebas
+coverage/
+**/coverage/
+
+# Ignorar sistemas operativos
+.DS_Store
+Thumbs.db
+.idea/
+
+# Ignorar editores de texto
+.vscode/
+*.swp
