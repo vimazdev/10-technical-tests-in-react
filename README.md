@@ -6,7 +6,7 @@ Este monorepo contiene una colección de 10 pruebas técnicas desarrolladas en R
 
 Cada proyecto tiene su propio directorio y archivo `README.md` con instrucciones específicas, como cómo instalar y ejecutar el proyecto, además de una descripción de la prueba técnica.
 
-### 1. [Proyecto 1: Crear un componente simple de contador](./CounterMaster/README.md)
+### 1. [Proyecto 1: Crear un componente simple de contador](./1-counter-master/README.md)
 - **Descripción:** Proyecto básico que muestra cómo configurar un entorno de React y renderizar un componente simple.
 - **Dificultad:** ⭐☆☆☆☆
 
