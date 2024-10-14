@@ -10,6 +10,10 @@ Cada proyecto tiene su propio directorio y archivo `README.md` con instrucciones
 - **Descripción:** Proyecto básico que muestra cómo configurar un entorno de React y renderizar un componente simple.
 - **Dificultad:** ⭐☆☆☆☆
 
+### 2. [Proyecto 2: Contador con estado](./2-dinamic-list/README.md)
+- **Descripción:** Implementación de un contador con estado utilizando los hooks de React (`useState`).
+- **Dificultad:** ⭐⭐☆☆☆
+
 
 ---
 
