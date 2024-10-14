@@ -1,0 +1,50 @@
+.ToDo-container{
+    width: 100%;
+    max-width: 800px;
+    min-width: 280px;
+    margin: 20px;
+    padding: 20px 5px;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* border: 1px solid #e67e22; */
+    gap: 20px;
+}
+
+.ToDo-container .ToDo-button{
+    width: 50%;
+    display: flex;
+    min-width: 200px;
+    gap: 10px;
+}
+
+.ToDo-container .ToDo-button textarea{
+    width: 100%;
+    border: none;
+    min-height: 70px;
+    max-height: 100px;
+    min-width: 200px;
+    max-width: 280px;
+    outline: none;
+    padding: 3px 5px 3px 15px;
+    border-radius: 5px;
+    background-color: #17202a;
+    color: white;
+}
+
+.ToDo-container .ToDo-button button{
+    background-color: #239b56;
+    color: white;
+    border: none;
+    width: 70px;
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+    transition: all 300ms linear;
+}
+
+.ToDo-container .ToDo-button button:hover{
+    background-color:#168d49 ;
+}
