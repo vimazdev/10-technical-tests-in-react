@@ -6,11 +6,11 @@ Este monorepo contiene una colección de 10 pruebas técnicas desarrolladas en R
 
 Cada proyecto tiene su propio directorio y archivo `README.md` con instrucciones específicas, como cómo instalar y ejecutar el proyecto, además de una descripción de la prueba técnica.
 
-### 1. [Proyecto 1: Crear un componente simple de contador](./1-counter-master/README.md)
+### 1. [Proyecto: Crear un componente simple de contador](./1-counter-master/README.md)
 - **Descripción:** Proyecto básico que muestra cómo configurar un entorno de React y renderizar un componente simple.
 - **Dificultad:** ⭐☆☆☆☆
 
-### 2. [Proyecto 2: Manejo de eventos y listas](./-2dynamic-list/README.md)
+### 2. [Proyecto: Manejo de eventos y listas](./2-dynamic-list/README.md)
 - **Descripción:** Se cubre el manejo de eventos en React y cómo renderizar listas dinámicas.
 - **Dificultad:** ⭐⭐⭐☆☆
 
